@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aradev-site/static/css/main.35dfd183.chunk.css",
+    "main.js": "/aradev-site/static/js/main.666ed350.chunk.js",
+    "main.js.map": "/aradev-site/static/js/main.666ed350.chunk.js.map",
+    "runtime-main.js": "/aradev-site/static/js/runtime-main.47d9d19c.js",
+    "runtime-main.js.map": "/aradev-site/static/js/runtime-main.47d9d19c.js.map",
+    "static/js/2.c8e9677f.chunk.js": "/aradev-site/static/js/2.c8e9677f.chunk.js",
+    "static/js/2.c8e9677f.chunk.js.map": "/aradev-site/static/js/2.c8e9677f.chunk.js.map",
+    "index.html": "/aradev-site/index.html",
+    "static/css/main.35dfd183.chunk.css.map": "/aradev-site/static/css/main.35dfd183.chunk.css.map",
+    "static/js/2.c8e9677f.chunk.js.LICENSE.txt": "/aradev-site/static/js/2.c8e9677f.chunk.js.LICENSE.txt",
+    "static/media/Me.d759311e.jpeg": "/aradev-site/static/media/Me.d759311e.jpeg",
+    "static/media/index.css": "/aradev-site/static/media/Rubik-Regular.a4bece5c.ttf",
+    "static/media/WebLogo.7f6154a2.png": "/aradev-site/static/media/WebLogo.7f6154a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47d9d19c.js",
+    "static/js/2.c8e9677f.chunk.js",
+    "static/css/main.35dfd183.chunk.css",
+    "static/js/main.666ed350.chunk.js"
+  ]
+}
