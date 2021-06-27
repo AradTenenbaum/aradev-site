@@ -8,6 +8,7 @@ const TitleSection = () => {
     <div>
       <div className="title">
         <h1 className="main-t">Create you'r own business website</h1>
+        <a className="btn-container" href="#contact">
         <Button
           variant="contained"
           color="primary"
@@ -17,6 +18,7 @@ const TitleSection = () => {
         >
           Get Started
         </Button>
+        </a>
       </div>
     </div>
   );

@@ -6,9 +6,15 @@
   
   .contact-btn {
     height: 4rem;
-    width: auto!important;
-    margin: auto 0rem 66.4px 1rem!important;
+    width: 100%;
     font-family: "RubikLight"!important;
+  }
+
+  .btn-container {
+    margin: auto 0rem 66.4px 1rem!important;
+    width: auto!important;
+    text-decoration: none;
+
   }
   
   .main-t {
