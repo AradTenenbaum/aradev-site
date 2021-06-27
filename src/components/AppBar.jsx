@@ -11,7 +11,7 @@ import MenuIcon from "@material-ui/icons/Menu";
 import { useHistory } from "react-router-dom";
 
 import MyDrawer from "./MyDrawer";
-import logo from '../assets/images/logo.png';
+import logo from '../assets/images/WebLogo.png';
 
 const useStyles = makeStyles({
   appBar: {
@@ -43,9 +43,8 @@ const useStyles = makeStyles({
 
   },
   logo: {
-    width: '30px',
-    height: '30px',
-    marginRight: '10px'
+    width: '50px',
+    paddingRight: '10px'
   },
   appText: {
     fontFamily: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif",
@@ -128,7 +127,7 @@ export default function HideAppBar(props) {
       <HideOnScroll {...props}>
         <AppBar className={isSmall ? classes.appBarSmall : classes.appBar}>
           <Toolbar>
-            {/* <img className={classes.logo} src={logo} alt='logo'/> */}
+            <img className={classes.logo} src={logo} alt='logo'/>
             <Typography className={classes.appText} variant="h6">AraDev</Typography>
           </Toolbar>
           {Options}

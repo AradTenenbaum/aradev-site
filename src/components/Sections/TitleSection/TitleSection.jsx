@@ -15,7 +15,7 @@ const TitleSection = () => {
           endIcon={<SendIcon />}
           className="contact-btn"
         >
-          Contact Me
+          Get Started
         </Button>
       </div>
     </div>

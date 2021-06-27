@@ -7,7 +7,7 @@
   .contact-btn {
     height: 4rem;
     width: auto!important;
-    margin: auto 0rem 6rem 0rem!important;
+    margin: auto 0rem 66.4px 1rem!important;
     font-family: "RubikLight"!important;
   }
   
@@ -15,6 +15,7 @@
       color: #FBF5F3;
       font-size: 80px;
       font-weight: bold;
+      width: 70%;
       font-family: "RubikBold";
   }
 
@@ -29,5 +30,8 @@
     .title {
       flex-direction: column;
       text-align: center;
+    }
+    .main-t {
+      width: 100%;
     }
   }

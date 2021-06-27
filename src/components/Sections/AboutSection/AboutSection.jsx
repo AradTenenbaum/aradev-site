@@ -9,8 +9,8 @@ const AboutSection = () => {
         <div className="about-name">I'm Arad Tenenbaum</div>
         <div className="about-text">
           A freelance web developer. I serve in the Israel Defense Forces and
-          work with a lot of cool technologies. I can help your bussiness
-          to grow by building your own website. It can help you promoting
+          work with a lot of cool technologies. I can help your business
+          to develop by building your own business website! It can be for promoting
           products, saving resevations and so on...
         </div>
       </div>
