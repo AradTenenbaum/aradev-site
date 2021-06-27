@@ -1,0 +1,47 @@
+.contact-container {
+  background-color: white;
+}
+
+.contact-me {
+  margin: 0;
+  padding: 20px;
+  font-family: "RubikBold";
+  text-align: center;
+}
+
+.ways {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.way {
+  padding: 50px;
+  text-decoration: none;
+}
+
+.way-icon {
+  font-size: 3rem!important;
+}
+
+.way-text {
+  font-family: "RubikMedium";
+}
+
+.instagram {
+  color: rgb(255, 0, 89);
+}
+
+.linkedin {
+  color: rgb(9, 154, 250);
+}
+
+.facebook {
+  color: rgb(74, 74, 245);
+}
+
+@media screen and (max-width: 510px) {
+  .ways {
+    flex-direction: column;
+  }
+}

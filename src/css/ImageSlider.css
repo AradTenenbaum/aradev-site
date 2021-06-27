@@ -1,0 +1,17 @@
+.project-img {
+    width: 80%;
+}
+
+.project-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+}
+
+@media screen and (max-width: 1120) {
+    .project-img {
+        width: 20%;
+    }
+}

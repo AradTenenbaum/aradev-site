@@ -1,0 +1,33 @@
+.title {
+    text-align: left;
+    padding: 2rem;
+    display: flex;
+  }
+  
+  .contact-btn {
+    height: 4rem;
+    width: auto!important;
+    margin: auto 0rem 6rem 0rem!important;
+    font-family: "RubikLight"!important;
+  }
+  
+  .main-t {
+      color: #FBF5F3;
+      font-size: 80px;
+      font-weight: bold;
+      font-family: "RubikBold";
+  }
+
+  @media screen and (max-width: 450px) {
+    .main-t {
+      font-size: 50px;
+    }
+
+  }
+
+  @media screen and (max-width: 900px) {
+    .title {
+      flex-direction: column;
+      text-align: center;
+    }
+  }

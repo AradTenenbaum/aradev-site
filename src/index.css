@@ -5,6 +5,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
+  
+}
+
+@font-face {
+  font-family: RubikLight;
+  src: url(./assets/fonts/Rubik/Rubik-Light.ttf);
+}
+
+@font-face {
+  font-family: RubikBold;
+  src: url(./assets/fonts/Rubik/Rubik-ExtraBold.ttf);
+}
+
+@font-face {
+  font-family: RubikMedium;
+  src: url(./assets/fonts/Rubik/Rubik-Regular.ttf);
 }
 
 code {
